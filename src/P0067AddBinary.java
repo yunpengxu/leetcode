@@ -2,11 +2,11 @@ import java.util.*;
 
 /**
  * https://leetcode.com/problems/add-binary/
- * 
+ *
  * @author yunpeng
- * 
+ *
  */
-public class AddBinary {
+public class P0067AddBinary {
 	public String addBinary(String a, String b) {
 		char[] b1 = a.toCharArray();
 		char[] b2 = b.toCharArray();
